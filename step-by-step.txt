@@ -1,0 +1,29 @@
+1. npm i bootstrap
+2. npm i font-awesome
+3. npm i redux react-redux
+4. npm i react-router-dom
+5. delete all part of App.js and App.css
+6. create folder component
+<-- Navbar Component>
+7. create file Navbar.jsx
+8. copy some Navbar from https://getbootstrap.com/docs/5.1/components/navbar/ to file Navbar.jsx
+9. tidy up the copy code Navbar in Navbar.jsx
+10. import bootstrap and font-awesome to file index.js
+11. import Navbar.js to App.js and get in Navbar to return()
+<-- Navbar.jsx -->
+12. change the Title Navbar to your own name and add some class 
+to <a> fw-bold fs-4
+13. delete fluid in root div class "container-fluid"
+14. change ul class from me-auto to mx-auto
+15. delete all part of <li class="nav-item dropdown"> and <a class="nav-link disabled">
+16. create <li> for About and Contact Us
+17. delete form class to search
+18. create <div className="buttons"> and add icon from https://fontawesome.com/
+<-- App.css -->
+19. Add class .navbar-nav a
+<-- Navbar.jsx -->
+20. Add class for nav "bg-white py-3 shadow-sm"
+<-- Home.jsx -->
+21. Create new component "Home.jsx" and import to App.js
+
+install "npm i react-loading-skeleton"
